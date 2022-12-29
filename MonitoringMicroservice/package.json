@@ -4,7 +4,7 @@
   "description": "Microservice for monitoring other microservices",
   "main": "app.js",
   "dependencies": {
-    "config": "^1.30.0"
+    "config": "^3.3.8"
   },
   "devDependencies": {},
   "scripts": {
